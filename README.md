@@ -1,0 +1,2 @@
+# SpicyScraper
+basic web scraper
