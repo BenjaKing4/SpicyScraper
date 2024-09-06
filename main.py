@@ -95,7 +95,7 @@ def save_to_file(formatted_info, filename='nhentai_info.txt'):
         file.write(formatted_info)
 
 # Example usage
-url = 'https://nhentai.net/g/486029/'  # Replace this with the actual URL of the doujin
+url = 'https://nhentai.net/g/number/'  # Replace this with the actual URL of the doujin
 formatted_info = scrape_nhentai_info(url)
 
 # If data was successfully retrieved, save it to a file
